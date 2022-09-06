@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_chinese.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_devnagiri.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_japanese.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_screen02.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_french.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_german.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_hindi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_jap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_kannad.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_trans_spain.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_translation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yamco/AndroidStudioProjects/language_detection_01/app/src/main/res/layout/activity_vocabl.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
